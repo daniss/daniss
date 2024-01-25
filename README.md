@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![dcindrak's 42 Philosophers Score](https://badge42.coday.fr/api/v2/clrt8eunh438501p4xyia21ns/project/3446847)](https://github.com/Coday-meric/badge42)
+
 <!--
 **daniss/daniss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
