@@ -1,12 +1,8 @@
-### Hi there 👋
+<img src=https://capsule-render.vercel.app/api?type=waving&height=200&color=0:83eaf1,100:63a4ff&text=Hi%20there,%20I%27m%20Danis%20A%20Student%20At%2042!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF alt="header" width="100%" />
 
 [![dcindrak's 42 stats](https://badge42.coday.fr/api/v2/clrt8eunh438501p4xyia21ns/stats?cursusId=21&coalitionId=16)](https://github.com/Coday-meric/badge42)
 
-[![dcindrak's 42 NetPractice Score](https://badge42.coday.fr/api/v2/clrt8eunh438501p4xyia21ns/project/3497909)](https://github.com/Coday-meric/badge42)
 
-[![dcindrak's 42 minishell Score](https://badge42.coday.fr/api/v2/clrt8eunh438501p4xyia21ns/project/3444872)](https://github.com/Coday-meric/badge42)
-
-[![dcindrak's 42 Philosophers Score](https://badge42.coday.fr/api/v2/clrt8eunh438501p4xyia21ns/project/3446847)](https://github.com/Coday-meric/badge42)
 <!--
 **daniss/daniss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
