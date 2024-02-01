@@ -5,5 +5,9 @@
 </div>
 
 ## Skills
-#### Learning C(intermediate), SQL(intermediate in data analysis), C++(just started).
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="5%" /> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="5%" /> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="5%" />
+#### Learning :
+##### C(Intermediate)
+##### SQL(Intermediate in data analysis)
+##### C++(Just started)
+##### Python(Pandas, scraping, sql)
+##### Docker(Just started)
