@@ -6,9 +6,9 @@
 
 ## Skills
 #### Learning :
-##### C(Intermediate)
-##### SQL(Intermediate in data analysis)
-##### C++(Just started)
-##### Python(Pandas, scraping, sql)
-##### Docker(Just started)
-##### Apache Airflow(Just started)
+##### C / C++ (Intermediate)
+##### SQL (Intermediate)
+##### Bash (Intermediate)
+##### Python (Django, Pandas, scraping, sql)
+##### Javascript (Just started)
+##### Docker(Intermediate)
