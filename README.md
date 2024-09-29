@@ -11,10 +11,10 @@ I’m Danis, a student at 42, passionate about coding and technology. I enjoy le
 - **Python**: Intermediate
 - **Docker**: Intermediate
 
-## 🌟 Projects
+<!--## 🌟 Projects
 - **[Project Name 1](link)**: Brief description of the project and what technologies were used.
 - **[Project Name 2](link)**: Brief description of the project and what technologies were used.
-- **[Project Name 3](link)**: Brief description of the project and what technologies were used.
+- **[Project Name 3](link)**: Brief description of the project and what technologies were used.-->
 
 ## 📫 Contact Me
 Feel free to reach out to me on:
