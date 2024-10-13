@@ -10,6 +10,7 @@ I’m Danis, a student at 42, passionate about coding and technology. I enjoy le
 - **SQL**: Intermediate
 - **Bash**: Intermediate
 - **Python**: Intermediate
+- **Java**: Learning
 - **Docker**: Intermediate
 
 <!--## 🌟 Projects
